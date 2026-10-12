@@ -1,3 +1,24 @@
+# World Kiss Day
+
+Blow a kiss at the camera and a shower of kisses — 10 to 16 lips and hearts from the project's
+own art — streams out of your mouth, each on its own curve, swelling as it flies at you and
+spinning, split evenly across the four corners of the screen. In each corner one kiss sticks into
+a fan anchored at the corner (a big one in the corner, two rings fanning out, tilted along the
+arc); the rest burst into little sparkling hearts as they arrive. A full fan lets its oldest kiss
+float away, so it goes on forever. Stuck kisses breathe and sway, each corner glows softly pink
+with twinkles round it, hearts puff from your mouth, and a heart garland and a "Happy World Kiss
+Day" title frame it all. Tap the speaker for the "mwah"s and splats.
+
+- Art: `art/lips-hearts-pattern-valentines-day.png` (the source sheet) cut into trimmed sprites in
+  `public/kisses/`; the garland is from the Vincentt asset library (`lib_c34ouw6eobq5nahb`),
+  downloaded to `public/frames/`.
+- Dev preview without a camera: the media switcher (☰) starts on the SDK's "Person ThumbUp"
+  video. Samples don't kiss, so the dev-only key K blows one. An optional local clip goes at
+  `dev-media/portrait.mp4` (see `dev-media/README.md`).
+- Tuning: `src/kiss/config.ts`. How it works: `PLAN.md`.
+
+---
+
 # v2-template
 
 The Vincentt starter app: a real React + R3F + Vincentt XR SDK (`@vincentt-xr/sdk`)

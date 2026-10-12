@@ -33,6 +33,18 @@
     "src/Scene.tsx",
     "src/FaceBoundingBox.tsx",
     "src/FooterHud.tsx",
-    "src/HandBoundingBox.tsx"
+    "src/HandBoundingBox.tsx",
+    "src/kiss/ExperienceStatus.tsx",
+    "src/kiss/Hud.tsx",
+    "src/kiss/Kisses.tsx",
+    "src/kiss/config.ts",
+    "src/kiss/kiss.ts",
+    "src/kiss/piles.test.ts",
+    "src/kiss/piles.ts",
+    "src/kiss/sound.ts",
+    "src/kiss/state.ts",
+    "src/kiss/stickers.ts",
+    "src/DevKiss.tsx",
+    "src/DevMediaSwitcher.tsx"
   ]
 }
